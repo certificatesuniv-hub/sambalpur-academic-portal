@@ -14,3 +14,4 @@ A comprehensive platform for academic support and student success.
 ```bash
 npm install
 npm run dev
+Last updated: 2024
